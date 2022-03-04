@@ -23,7 +23,6 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 ## Features
 - Search for your token ✓
-- Refresh your token page 10 times ✓
 - Click fav button ✓
 - Click Telegram button ✓
 - Click Twitter button ✓
