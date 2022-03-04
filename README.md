@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/S4Cy3d2eby4" target="_blank"><img src="https://github.com/kthenurseone/dextool_trendbot/blob/main/2.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/S4Cy3d2eby4" target="_blank"><img src="https://github.com/kthenurseone/bogged_finance_trending/blob/main/2.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
